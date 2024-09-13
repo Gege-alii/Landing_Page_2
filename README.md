@@ -11,4 +11,4 @@ Technologies Used:
 .bootstrap: For making the page more resposive on different devices
 and screens.
 
-Check out the live demo https://gege-alii.github.io/Landing_Page_2/
+Check out the live demo https://gege-alii.github.io/Landing_page_2/
